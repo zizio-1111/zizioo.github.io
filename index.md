@@ -17,6 +17,6 @@ HOW ABOUT YOU !
 <h2>Colorful Pencils</h2>
 <img border="0" src="https://raw.githubusercontent.com/zizio-1111/zizioo.github.io/main/pic/color_pencils_glass_hires.jpg" alt="Pulpit rock" width="100" height="90">
 
-<img border="0" src="http://static.runoob.com/images/runoob-logo.png" alt="Pul " width="150" height="120">
+<img border="0" src="http://static.runoob.com/images/runoob-logo.png" alt="Pul " width="150" height="50">
  <p>
 如果我想要了解企业软件代码质量管理，可以点击此网页。<a href="https://github.com/zizio-1111/zizioo.github.io/blob/main/download/%E6%96%B0%E6%96%87%E6%A1%A3.md">访问此链接2</a> </p> 
