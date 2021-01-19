@@ -20,3 +20,5 @@ HOW ABOUT YOU !
 <img border="0" src="http://static.runoob.com/images/runoob-logo.png" alt="Pul " width="150" height="50">
  <p>
 如果我想要了解企业软件代码质量管理，可以点击此网页。<a href="https://github.com/zizio-1111/zizioo.github.io/blob/main/download/%E6%96%B0%E6%96%87%E6%A1%A3.md">访问此链接2</a> </p> 
+ <p>
+如果我想要了解，可以点击此网页。<a href="https://glasssix.github.io/download/pdf/Gaussian%20Filter.pdf">访问此链接3</a> </p> 
